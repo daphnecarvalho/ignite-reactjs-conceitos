@@ -8,10 +8,10 @@ http://localhost:8080
 ## Tests
 
 * TaskList - App Page
-    - ✕ should be able to add a task
-    - ✕ should not be able to add a task with a empty title
-    - ✕ should be able to remove a task
-    - ✕ should be able to check a task
+    - ✓ should be able to add a task
+    - ✓ should not be able to add a task with a empty title
+    - ✓ should be able to remove a task
+    - ✓ should be able to check a task
 
 ## Project commands
 ### Prepare project
